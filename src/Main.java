@@ -10,6 +10,8 @@ public class Main {
         for (int i = 0; i < text.length(); i++) {
             System.out.println("Znak na pozici " + i + ": " + text.charAt(i));
             System.out.println("BLABLABLA");
+            System.out.println("BLABLABLA");
+
         }
 
     }
