@@ -11,7 +11,6 @@ public class Main {
             System.out.println("Znak na pozici " + i + ": " + text.charAt(i));
             System.out.println("BLABLABLA");
             System.out.println("BLABLABLA");
-
         }
 
     }
